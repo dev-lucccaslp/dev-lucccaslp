@@ -9,8 +9,6 @@
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="React Native" height="30" width="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="NodeJS" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="HTML5" height="30" width="40"
@@ -23,8 +21,6 @@
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Pandas" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-  <img align="center" alt="Analytics" height="30" width="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googleanalytics/googleanalytics-original.svg">
 
   <!-- Backend Development -->
   <img align="center" alt="Django" height="30" width="40"
