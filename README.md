@@ -1,56 +1,107 @@
-# Lucas Pacheco
+<!-- ===================== HEADER ===================== -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:7F00FF,50:A855F7,100:00D4FF&text=Lucas%20Pacheco&fontColor=ffffff&fontSize=64&fontAlignY=36&animation=twinkling&desc=AI%20Automation%20Specialist%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=60&descSize=20" />
+</p>
 
-**Full Stack Developer | Data Scientist | Building scalable products with clean architecture and data-driven thinking**
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucaslessapacheco/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=640&lines=AI+agents+for+customer+service;Automation+with+n8n+%2B+Claude+%2B+Codex;.NET+%7C+C%23+%7C+React+%7C+React+Native;From+idea+to+production+on+AWS" alt="Typing SVG" />
+  </a>
+</p>
 
-I’m a software developer with experience across **frontend, backend, and data solutions**, building applications that combine solid engineering practices with analytical problem-solving.
-
-My background includes work with **JavaScript, TypeScript, React, Node.js, Python, Django, C#, and .NET**, along with data workflows using **Pandas** and related tools.
-
-I’m especially interested in:
-- Full Stack Development
-- Software Architecture
-- Data Science & Machine Learning
-- Scalable systems and product-focused engineering
-
----
-
-## Tech Stack
-
-### Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js)
-![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
-![Django](https://img.shields.io/badge/Django-111?style=for-the-badge&logo=django)
-![C%23](https://img.shields.io/badge/C%23-111?style=for-the-badge&logo=csharp)
-![.NET](https://img.shields.io/badge/.NET-111?style=for-the-badge&logo=dotnet)
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3)
-
-### Data
-![Pandas](https://img.shields.io/badge/Pandas-111?style=for-the-badge&logo=pandas)
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucaslessapacheco/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dev-lucccaslp.dev-lucccaslp&left_color=%237F00FF&right_color=%2300D4FF&left_text=profile%20views" />
+</p>
 
 ---
 
-## Connect with me
+## 🤖 About me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaslessapacheco/)
+I build **AI that talks to customers and automation that does the boring work**.
+My focus is **AI agents for customer service** — bots that understand context, resolve real requests,
+plug into business systems and hand off to a human when it matters — backed by solid **.NET** APIs,
+**React / React Native** front ends and **AWS** infrastructure.
+
+```csharp
+public sealed class LucasPacheco : IDeveloper
+{
+    public string Role => "AI Automation Specialist · Full Stack Developer";
+
+    public string[] Backend  => [".NET", "C#", "Node.js"];
+    public string[] Frontend => ["React", "React Native", "TypeScript"];
+    public string[] AI       => ["Claude", "Codex", "n8n", "AI Agents"];
+    public string   Cloud    => "AWS";
+
+    public string Mission =>
+        "Turn customer service and repetitive work into AI-powered automation.";
+}
+```
+
+## ⚡ What I build
+
+- 💬 **AI customer service agents** — 24/7 support that answers, takes action and escalates smartly
+- 🔁 **Workflow automation with n8n** — connecting LLMs, APIs, CRMs and messaging channels
+- 🧠 **AI-assisted engineering** — shipping faster with Claude and Codex in the loop
+- 🧱 **Full stack products** — .NET / C# back ends with React and React Native apps
+- ☁️ **Cloud on AWS** — from prototype to production
+
+### How an AI support flow looks in my hands
+
+```mermaid
+flowchart LR
+    A([💬 Customer]) --> B[⚙️ n8n workflow]
+    B --> C{🤖 AI agent<br/>Claude}
+    C -->|answers| D([✅ Resolved instantly])
+    C -->|takes action| E[🧱 .NET API]
+    E --> F[(🗄️ CRM / ERP)]
+    C -->|complex case| G([👤 Human handoff])
+```
 
 ---
 
-## GitHub Stats
+## 🛠️ Tech stack
 
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=dev-lucccaslp&show_icons=true&theme=transparent"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=dev-lucccaslp&show_icons=true&theme=default"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-lucccaslp&show_icons=true" />
-</picture>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,js,ts,nodejs,aws,git&theme=dark&perline=8" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codex-111111?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Agents-7F00FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-00D4FF?style=for-the-badge&logoColor=black" />
+</p>
+
+---
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-lucccaslp&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dev-lucccaslp&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dev-lucccaslp&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dev-lucccaslp&hide_border=true&background=1A1B27&ring=A855F7&fire=00D4FF&currStrkLabel=A855F7&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&stroke=30363d" />
+</p>
+
+<!-- Snake: generated by .github/workflows/snake.yml (run it once from the Actions tab) -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-lucccaslp/dev-lucccaslp/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-lucccaslp/dev-lucccaslp/output/github-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/dev-lucccaslp/dev-lucccaslp/output/github-snake-dark.svg" />
+  </picture>
+</p>
+
+<!-- ===================== FOOTER ===================== -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00D4FF,50:A855F7,100:7F00FF" />
+</p>
